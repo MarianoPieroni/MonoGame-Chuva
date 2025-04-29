@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/efQDH7+7RKH05LEOYYgFhhjCBzJ+9GPcsixMVxoZ3yvuDIL02BGM+e8PQCK/Tz0ze/47hgXZ1XvOOAdEqGMAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\piero\\OneDrive\\Área de Trabalho\\codigo\\tpc_chuva\\tpc_chuva.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piero\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\piero\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
